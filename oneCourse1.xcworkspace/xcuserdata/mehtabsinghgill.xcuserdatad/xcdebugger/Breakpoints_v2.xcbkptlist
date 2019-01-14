@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "oneCourse1/LoginViewController.swift"
+            timestampString = "568795274.262699"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "LoginViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "oneCourse1.LoginViewController.EmailTextField1.getter : weak Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "oneCourse1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehtabsinghgill/Desktop/IOS/oneCourse1/oneCourse1/LoginViewController.swift"
+                  timestampString = "568795196.449631"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "oneCourse1.LoginViewController.EmailTextField1.setter : weak Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "oneCourse1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehtabsinghgill/Desktop/IOS/oneCourse1/oneCourse1/LoginViewController.swift"
+                  timestampString = "568795196.454129"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "oneCourse1.LoginViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; oneCourse1.LoginViewController"
+                  moduleName = "oneCourse1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehtabsinghgill/Desktop/IOS/oneCourse1/oneCourse1/LoginViewController.swift"
+                  timestampString = "568795196.458046"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "oneCourse1.LoginViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;oneCourse1.LoginViewController&gt;"
+                  moduleName = "oneCourse1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehtabsinghgill/Desktop/IOS/oneCourse1/oneCourse1/LoginViewController.swift"
+                  timestampString = "568795196.4642119"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
